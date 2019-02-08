@@ -1,0 +1,581 @@
+Key (Optional)	English	Spanish	Description
+	config.txt	config.txt	filename for a config file
+	stash	armazém	filename
+	misc	varios	filename
+	Failed	Fracaso	
+	Successful	Sucesso	
+	Complete	Completado	
+	Back	voltar	
+	Retry	tenta de novo	
+	Login	Iniciar sessao
+	User	Usuario	Short for Username
+	Pass	Senha	Short for Password
+	Cancel	Cancelar	
+	Connected to	Conectado a	
+	You are the Administrator of this System	Voce é um administrador de sistema	
+	Probe System	Sistema de sonda	Keep word Probe in english
+	View Filesystem	Ver sistema de arquivos	
+	View Logs	Ver registros	
+	Scan Network	Escanear rede	Keep word scan in english
+	Disconnect	Desconectar	
+	Disconnected	Desconectado	
+	Error	Error	
+	Open Ports	Portas abertas	
+	Open Ports Required for Crack:	Portas abertas necessárias para crack:	
+	Proxy Detected	Proxy detectado	Keep word Proxy in English if possible
+	Proxy Bypassed	Proxy ignorado	Keep word Proxy in English if possible
+	Firewall Detected	Firewall detectado	Keep word Firewall in English if possible
+	Firewall Solved	Firewall superado	Keep word Firewall in English if possible
+	File System	Sistema de arquivos	
+	Empty	Vazio	
+	PASSWORD	SENHA	
+	FOUND	ENCONTRADA	
+	New Session	NOVA SESSAO	
+	Hacknet	Hacknet	Any way of writing this name in local characters? I'll likely keep it in english mostly.
+	MORE SOON	MAIS EM BREVE	For the demo end screen
+	Exit	Sair	
+	Back	Volta	
+			
+Less Critical Words:			
+PointClicker:			
+			
+	Click Me!	Clique em mim!	
+	Autoclicker	Autoclic	Made up word -whatever fits
+	Pointereiellion	Ponto de Referencia	
+	Upgrade	Melhora	
+	IMPORTANT : NEVER DELETE OR RE-NAME	IMPORTANTE: NAO APAGAR OU RENOMEAR	
+	IT IS SYSTEM CRITICAL!	É CRÍTICO PARA O SISTEMA!	
+	Removing it causes instant crash. DO NOT TEST THIS	A remocao causará um bloqueio instantâneo. NAO TENTE	
+	IMPORTANT_README_DONT_CRASH.txt	IMPORTANT_README_DONT_CRASH.txt	
+	UPGRADE AVALIABLE	MELHORIA DISPONÍVEL	
+	INSUFFICIENT POINTS	PONTOS INSUFICIENTES	
+	COST	CUSTO	
+	% of current Points	% dos pontos atuais	
+	% of current Points Per Second	% de pontos atuais por segundo	
+	CLICK TO UPGRADE	CLIQUE PARA MELHORAR	
+	INSUFFICIENT POINTS	PONTOS INSUFICIENTES	"as in ""5 seconds to double current points"""
+	seconds to double current points	segundos para duplicar pontos atuais	
+	GO!	VAI!	
+			
+Medical:			
+			
+	UNKNOWN ERROR	ERRO DESCONHECIDO	
+	Universal Medical Database	Banco de dados médico universal	
+	MedicalDatabaseInfo.txt	MedicalDatabaseInfo.txt	
+	No entry found for name	Nenhum nome encontrado	permutations means varieties
+	Permutations tested:	Modificacoes testadas:	
+	Corrupt record	Registro errado	
+	Unable to parse record	O log nao pôde ser analisado	
+	MedicalRecord	Registro médico	
+	Back to menu	Voltar ao menu	
+	Send Record Copy	Enviar copia de registro	"as in ""record for NAME"""
+	Record for	Registro de	
+	Recipient Address	Endereco do destinatário	
+	Recipient Address (Case Sensitive):	Endereco do destinatário (é sensível a maiúsculas e minúsculas)	
+	Error getting recipient email	Erro ao receber o email do destinatário	
+	Specify Address	Escreva o endereco	
+	COMPLETE	COMPLETO	
+	SENDING	ENVIANDO	
+	Send to different address	Enviar para outro endereco	
+	Back to menu	Voltar ao menu	
+	Info	Info	
+	e-mail this record	envie este registro por e-mail	
+	Age	Idade	
+	Years	Anos	
+	Days	Dias	
+	Hours	Horas	
+	Minutes	Minutos	
+	Seconds	Segundos	
+	Universal Medical	Médica Universal	
+	Records & Monitoring Services	Servicos de registo e vigilância	
+	Information	Informacao	
+	Details and Administration	Detalhes e administracao	
+	Database	Base de dados	
+	Records Lookup	Buscar registros	
+	Search	Buscar	
+	Random Entry	Entrada aleatoria	
+	Enter patient name	Escreva o nome do paciente	
+	Error in name input	Erro ao escrever o nome	
+	Exit Database View	Saia da visualizacao do banco de dados	
+	Admin Access	Acceso administrador	
+	Required for use	Uso requerido	
+			
+Academic:			
+			
+	DESCRIPTION FILE NOT FOUND	ARQUIVO DE DESCRICAO NAO ENCONTRADO	
+	Valid Administrator Account Detected	Conta de administrador válida encontrada	
+	Non-Admin Account Active	Conta nao administrativa ativa	
+	About This Server	Sobre este servidor	
+	Search Entries	Buscar entradas	
+	Search Again	Pesquise novamente	
+	No Entries Found	Nenhuma entrada encontrada	
+	Information	Informacao	
+	Please enter the name you with to search for:	Digite o nome que voce deseja pesquisar:	
+	Name	Nome	
+	Multiple Matches	Múltiplos jogos	
+	Refine Search	Refine a pesquisa	
+	Go Back	Voltar	
+	No Degrees Found	Nenhum grau encontrado	
+	Degree	grau	
+	Uni	Uni	Short term for University
+	Edit	Editar	
+	Delete	Eliminar	
+	Confirm?	Confirma?	
+	Add Degree	Adicionar título	
+	Save And Return	Guardar e Voltar	
+	International Academic Database	Base de dados academica internacional	
+			
+			
+Authentication:			
+	username :	usuario :	
+	password :	senha :	
+			
+			
+Death Row:			
+	Return	Voltar	
+	Incident Report	Relatório do incidente
+	Final Statement	Declaracao final	
+			
+			
+Heart Monitor:			
+	Admin Access Granted	Acceso administrador concedido	
+	Admin Access Required	Acceso administrador requerido	
+	View Monitor	Ver pulsómetro	
+	Admin Login	Faca o login como administrador	
+	Firmware	Firmware	
+	Monitor	Pulsómetro	
+	Firmware Config	Configuracao de firmware	
+	Firmware Administration	Administracao de firmware	
+	Access	Acceso	
+	GRANTED	PERMITIDO	
+	DENIED	NEGADO	
+	Secondary security layer for firmware read/write access	Nível de seguranca secundário para acesso de leitura/escritura de firmware	
+	Access Required	Acceso requerido	
+	Log In First	Iniciar sessao primeiro	
+	Currently Active Firmware	Firmware ativo atualmente	
+	Activate This Firmware	Ativar este firmware	
+	Confirm Firmware Activation	Confirmar ativacao de firmware	
+	Confirm Activation	Confirmar ativacao	
+	FIRMWARE UPDATE COMPLETE	ATUALIZACAO DE FIRMWARE COMPLETA	
+	Valid Firmware File	Arquivo firmware válido	
+	Invalid Firmware File	Arquivo firmware inválido	
+	Invalid binary package	Pacote  binario inválido	1
+	Valid firmware packages must be	Pacotes de firmware válidos devem ser carregados	2
+	digitally signed by an authorized manufacturer	a assinatura digital de um fabricante autorizado	3
+	Valid binary package	Pacote binário válido	
+	Signed by	Assinado por	
+	Compiled by	Compilado por	
+	"A secondary login is required to review and modify running firmware. Personal login details are provided for each chip. If you have lost your login details, connect your support program to our content server"	"Um segundo login é necessário para revisar e modificar o firmware em execucao Detalhes de login pessoal sao necessários para cada chip Se voce perdeu seus dados de login, conecte seu programa de assistencia ao nosso servidor de conteúdo"	
+	Login Complete	Início da sessao concluída	
+	Login Failed	Erro ao efetuar login
+	Retry Login	Repetir login	
+	Administrate Firmware	Administrar firmware	
+	Username	Usuario	
+	Password	Senha	
+	Remote Monitor	Pulsómetro Remoto	
+			
+ISP:			
+	ISP Management System	Sistema de gerenciamento de ISP	
+	IP Entry	Escreva o IP	
+	Identified as	Identificado como	
+	Assign New IP	Atribuir novo IP	
+	Flag for Inspection	Marcar para inspecao	
+	ACTIVE	ATIVA	
+	Prioritize Routing	Priorizar rota	
+	Scanning for	Buscando	
+	Enter IP Address to Scan for	Digite o endereco IP para pesquisar	
+	IP Address	Direcao IP	
+	Scan	Buscar	
+	Insufficient Permissions	Autorizacoes insuficientes	
+	IP Address is not registered with	O endereco IP nao está registrado com	
+	our servers	nossos servidores	
+	Check address and try again	Verifique o endereco e tente novamente	
+	About this server	Sobre este servidor	
+	Valid Administrator Account Detected	Conta de administrador válida detectada	
+	Non-Admin Account Active	Conta nao administrativa ativa	
+	About	Acerca de	
+	Search for IP	Buscar IP	
+			
+			
+Mail Server:			
+	Mail Server	Servidor de correio	
+	Return to Inbox	Retornar para a caixa de entrada	
+	Subject	Asunto	As in Email Subject line
+	LINK	LINK	
+	ACCOUNT	CONTA	
+	NOTE	NOTA	
+	Reply	Responder	
+	Logged in as {0}	Sessao iniciada como {0}	Where {0} is the username of the logged in user
+	Logout	Sair	
+	Return to Inbox	Retornar para a caixa de entrada
+	Additional Details	Detalhes adicionais	
+	Force Complete	Forca concluída	
+	Mission Incomplete	Missao incompleta	
+	Add	Adicionar	
+	Send	Enviar	
+			
+			
+Message Board:			
+	Digital Security	Seguranca digital	
+	Message Board	Fórum de mensagens	
+	Back to Board	De volta ao fórum	
+	{0} posts and image replies omitted	{0} publicacoes e respostas para a imagem omitida	Where {0} is the number of posts
+	Click here to view.	Clique aqui para ver
+	Anonymous	Anónimo	
+			
+			
+Mission Hub:			
+	Contract Listing	Lista de contratos	
+	User List	Lista de usuarios	
+	Abort Current Contract	Abortar contrato atual	
+	Are you sure you with to abandon your current contract?	Tem certeza de que deseja abandonar seu contrato atual??	
+	This cannot be reversed.	Voce nao pode desfazer.	
+	Abandon Contract	Deixar contrato	
+	CSEC secure contract listing panel : Verified Connection : Token last verified	Lista de contratos asegurada por CSEC : conexao verificada : token verificado por última vez	
+	Abort current contract to accept new ones.	Abortar contrato atual para aceitar novos.	
+	Joined {0}	Ele se juntou ao {0}	{0} is a date
+	Previous Page	Página anterior	
+	Next Page	Página seguinte	
+	{0} Contract Hub	Centro de contratos {0}	"{0} is a group name like ""CSEC"""
+	Authenticated User:	Usuário autenticado:	
+			
+			
+Mission Listing:			
+	{0} News	Noticias {0} 	"{0} is the company name - like ""fox news"""
+	Available Contracts	Contratos disponível	
+	CRITICAL ERROR	ERROR CRÍTICO	
+	{0} Group	Grupo {0} 	{0} as above
+	Message Board	Fórum de mensagens	
+	Mission Unavailable	Missao indisponível	
+	Complete Existing Contracts	Concluir contratos existentes	"As an instruction: ""You need to complete existing contracts"""
+	User ID Assigned to Different Faction	ID do usuário atribuído a outra faccao	
+	Mission Unavailable	Missao indisponível	
+			
+			
+Song Changer:			
+	Music Changer	Intercambiador musical	
+	Shuffle Music	Música aleatoria	
+			
+			
+Web Server:			
+	Exit Web View	Sair da visualizacao da Web	
+	Error 404	Error 404	
+	Page not found	Página nao encontrada	
+	View Source	Ver código fonte	
+	Loading...	Carregando…	
+			
+			
+Effects:			
+			
+Trace Danger Seq:			
+	IP Address successfully reset	Endereco IP reiniciada com sucesso	
+	Foreign trace averted	Rastreamento estranho evitado	
+	Preparing for system reboot	Preparando reinicio de sistema	
+	Rebooting	Reiniciando	
+	COMPLETED TRACE DETECTED : EMERGENCY RECOVERY MODE ACTIVE	RASTREAMENTO CONCLUÍDO: MODO DE RECUPERAÇÃO DE EMERGÊNCIA ATIVO	
+			
+	Unsyndicated foreign connection detected during active trace	Conexao estranha nao autorizada detectada durante rastreio ativo	Unsyndicated is a technical term - leave as is or find close equivilent
+	Emergency recovery mode activated	Modo de recuperacao de emergencia activado	Following terms flash in in sequence
+	Automated screening procedures will divert incoming connections temporarily	Os procedimentos de busca automática-ao temporariamente as conexoes de entrada	
+	This window is a final opportunity to regain anonymity.	Esta janela é uma última oportunidade para recuperar o anonimato.	
+	"As your current IP Address is known, it must be changed"	"Como o seu endereco IP atual é conhecido, voce deve mudá-lo"	
+	This can only be done on your currently active ISP's routing server	Só poderá faze-lo em seu servidor de rota do ISP ativo 
+	Reverse tracerouting has located this ISP server's IP address as {0}	Um rastreamento reverso foi localizado o endereco IP deste servidor ISP {0}	{0} being an ip address
+	Your local ip : {0}  must be tracked here and changed.	Meu IP local : {0} voce deve procura e alterá-las aqui.	
+	Failure to complete this while active diversion holds will result in complete	"Se nao o fizer, durante o desvio ativo, voce vai perder"	
+	and permanent loss of all account data - THIS IS NOT REPEATABLE AND CANNOT BE DELAYED	todos os dados permanentes de sua conta - voce NÃO PODE REPETIR OU ATRASAR ESTA AÇÃO	
+			Sequence ends
+	Reset Assigned Ip Address on ISP Mainframe	Reiniciar o endereco IP atribuído ao ISP principal	
+	ISP Mainframe IP:   {0}	IP do ISP principal:  {0}	
+	YOUR Assigned IP: {0}	O SEU IP atribuído: {0}	
+	BEGIN	COMEÇAR	
+			
+Exes:			
+	Hint	Indicio	
+			
+Decypher:			
+	Fatal error in decryption	Erro fatal ao decifrar	
+	file may be corrupt	o arquivo pode estar corrompido	
+	File not found	Arquivo nao encontrado	
+	File is not	O arquivo tem	
+	DEC encrypted	criptografia DEC	
+	This File Requires\n a Password	Este arquivo requer\n uma senha	keep a \n in the middle of the text
+	Provided Password\nIs Incorrect	A senha fornecida\n esta incorrecta como acima
+	Fatal error in loading	Erro fatal ao carregar	
+	COMPLETE	COMPLETO	
+	ERROR	ERROR	
+	Headers:	Cabecalhos:	
+	Source IP:	IP de origem:	
+	Output File:	Archivo de salida:	
+	Operation Complete	Concluído	
+	Shutting Down	Desligando	
+			
+			
+Notes:			
+	Close	Fechar	
+	Add Note	Adicionar nota	
+	Type In Terminal...	Escrever terminal…	
+	Insufficient Memory	Memoria insuficiente	
+	Close Notes to Free Space	Fechar notas em espaco livre	
+			
+			
+Sequencer:			
+	ACTIVATE	ATIVAR	
+	Break active security on target	Interromper seguranca activa sobre a máquina de destino	
+	Delete all Hacknet related files	Excluir todos os arquivos relacionados ao Hacknet 	
+	Disconnect	Desconectar	
+			
+			
+Shell:			
+	Trigger Ativar	
+	Close	Fechar	
+	Overload Sobrecarregar	
+	Trap    Trap	
+	Cancel	Cancelar	
+			
+			
+ThemeChanger:			
+	Theme Switch	Interruptor de temas	
+	Remote	Remoto	
+	No Valid Files	Nao há nenhum arquivo válido	
+	Local Theme Files	Arquivos de temas locais	
+	Activate Theme	Ativar tópico	
+			A title for the player - as in Hacker Agent
+			
+CSEC:			
+	Agent	Agente	
+	"Additional resources have been added to the CSEC members asset pool, for your free use."	Foram adicionados recursos adicionais para o grupo de ativos de membros de CSEC para uso gratuito.	
+	Find them in the misc folder on the asset server.	Procure-os na pasta vários do servidor de ativos.	
+	Thankyou	Obrigado	
+	Admins :: Asset Uploads	Admins :: melhorias de ativos	
+	Admins :: Flagged for Critical Contract	Admins :: marcado por contrato crítico	
+			
+			
+Base Faction:			
+	Contract Abandoned	Contrato abandonado	
+			
+			
+MODULES:			
+DisplayModule:			
+	Empty	Vazio	
+			
+Crash Module:			
+	Unable to Load System file os-config.sys	No se pudo cargar el archivo de sistema os-config.sys	
+	Unable to Load System file bootcfg.dll	No se pudo cargar el archivo de sistema bootcfg.dll	
+	Unable to Load System file netcfgx.dll	No se pudo cargar el archivo de sistema netcfgx.dll	
+	Unable to Load System file x-server.sys	No se pudo cargar el archivo de sistema  x-server.sys	
+	Locate and restore a valid x-server file in ~/sys/ folder to restore UX functionality	Localiza y restaura un archivo válido x-server en la carpeta ~/sys/ para restaurar la funcionalidad de la experiencia de usuario	
+	Consider examining reports in ~/log/ for problem cause and source	Examina informes en ~/log/ para hallar la causa y el origen del problema	
+	System UX resources unavailable -- defaulting to terminal mode	Recursos de experiencia de usuario del sistema no disponibles -- modo terminal por defecto	
+			
+RAM Module:			
+	INSUFFICIENT MEMORY	MEMORIA INSUFICIENTE	
+			
+			
+Programs:			
+	No port number Provided	Nao foi fornecido o número da porta	
+	Target Port is Closed	Porta de destino fechado	
+	Target Port running incompatible service for this executable	Porta de destino incompatível para este executável	
+			
+Firewalls:			
+	Too few characters	Faltan caracteres	
+	Too many characters	Sobran caracteres	
+	Solution Incorrect Length	Solución a longitud incorrecta	
+	Analysis already in Progress	Análisis ya en curso	
+	Firewall Analysis Pass {0}	Análisis de firewall {0}	"{0} is the pass number (pass 2, pass 3 etc)"
+			
+			
+Utilities:			
+	Search	Buscar	
+	Cancel	Cancelar	
+			
+			
+Savefile Login:			
+	USERNAME	USUARIO	
+	PASSWORD	SENHA	
+	CONFIRM PASS	CONFIRMAR SENHA	
+	Username already in use. Try Again	Este usuário já está em uso. Tente novamente	
+	Password Cannot be Blank! Try Again	Voce tem que digitar uma senha. Tente novamente	
+	Password Mismatch! Try Again	A senha nao corresponde Tente novamente	
+	Details Confirmed	Detalhes confirmados	
+	READY - PRESS ENTER TO CONFIRM	PRONTO - PRESSIONE ENTRE PARA CONFIRMAR	
+	Invalid Login Details	Detalhes de login inválidos	
+	LOCAL ACCOUNTS	CONTAS LOCAIS	
+	CONFIRM	CONFIRMAR	
+	CANCEL	CANCELAR	
+			
+Helpfile:			NOTE: Be very careful translating these ones - they are for the help command ingame and provide instruction to the player
+	Command List - Page [PAGENUM] of [TOTALPAGES]	Lista de comandos - Página [PAGENUM] de [TOTALPAGES]	Leave [Pagenum] and [totalpages] untranslated - they are replaced by code
+	Displays the specified page of commands.	Exibe a página específica de comandos.	
+	Copies file named [filename] from remote machine to specified local folder (/bin default)	Copie o arquivo de nome [filename] do computador remoto para a pasta local especificada (/bin default)	
+	Scans for links on the connected machine and adds them to the Map	Procure links no dispositivo conectado e adicione ao mapa	
+	Deletes specified file(s)	Elimina arquivo(s) especificado(s)	
+	Lists currently running processes and their PIDs	Listas com processos em execucao e seu PID	"Leave ""PIDs"" as-is"
+	Moves current working directory to the specified folder	Mova o diretório atual para a pasta especificada	
+	Moves or renames [FILE] to [DESTINATION]	Mova ou mude seu nome [FILE] a [DESTINATION]	
+	Connect to an External Computer	Conecte-se com um computador externo	
+	Scans the connected machine for{0}active ports and security level	Pesquise no computador conectado por {0} portas ativas e nível de seguranca	{0} is a splitter in the middle of the text so it's not too long as a line here.
+	Lists all available executables in the local /bin/ folder (Includes hidden and embedded executables)	Classifique todos os executáveis ​​disponíveis na pasta local /bin/ (inclui executáveis ​​ocultos e incorporados)	
+	Terminate the current open connection.	Termina a conexao atualmente aberta.	
+	Displays contents of file	Mostrar o conteúdo do arquivo	
+	Opens the connected Computer's CD Tray	Abra a bandeja de CD do computador conectado	
+	Closes the connected Computer's CD Tray	Feche a bandeja do CD do computador conectado	
+	Reboots the connected computer. The -i flag reboots instantly	Reinicie o computador conectado. O sinal -i é redefinido imediatamente	
+	Replaces the target text in the file with the replacement	Substitui o texto de destino do arquivo pelo texto de substituicao	
+	Performs an analysis pass on the firewall of the target machine	Executa uma análise do firewall da máquina de destino	
+	Attempts to solve the firewall of target machine to allow UDP Traffic	Tente superar o firewall da máquina de destino para permitir o tráfego UDP	
+	Requests a username and password to log in to the connected system	Solicite um nome de usuário e senha para efetuar login no sistema conectado	
+	Uploads the indicated file on your local machine to the current connected directory	Carregue o arquivo indicado em sua máquina local no diretório conectadoo	
+	Clears the terminal	Remova o terminal	
+			
+			
+			
+Main Menu:			
+	TEST BUILD EXPIRED - EXECUCAO DESATIVADA PROVA EXPIRADA - EXECUCAO DESABILITADA	
+	New Session	Nova sessao	
+	OS Load Error	Erro ao carregar o sistema operacional	
+	Load Session	Carregar sessao	
+	New Test Session	Nova sessao de teste	
+	Continue with account [{0}]	Continuar com a conta [{0}]	{0} is the account name - keep the brackets
+	No Accounts	Nao há contas	
+	Settings	Configuracao	
+	"ACCOUNT FILE CORRUPTION: Account {0} appears to be corrupted, and will not load."	ERRO NO ARQUIVO DA CONTA: a conta {0} Parece danificado e nao vai carregar.	
+	WARNING: Error connecting to Steam Cloud	ATENCAO: erro ao conectar-se com a Steam Cloud	
+			
+			
+			
+Messages:			
+	Resume	Retomar	
+	Quit Hacknet	Sair de Hacknet	
+	Quit HackNetOS\nVirtual Machine?	Deixe a máquina virtual\nde HackNetOS?	Leave the \n in the middle there
+			
+			
+Mission Functions:			
+	Contract Successful	Contrato conseguido	
+	Are you Kidding me?	É piada?	
+	eOS Security Basics	Regras básicas de seguranca eOS	
+			
+			
+Multiplayer Old:			
+	Connection Established	Conexao estabelecida	
+	Local IP	IP local	
+	Extrn IP	IP externa	
+	VICTORY	VITORIA	
+	DEFEAT	DERROTA	
+	Connecting...	Conectando…	
+	IP To Connect to:	IP para se conectar a:	
+	Back to Menu	Volta ao menu	
+			
+Settings:			
+	Back	Voltar	
+	Apply Changes	Aplicar mudancas	
+	Resolutions	Resolucoes	
+	Fullscreen	Tela Cheia	
+	Bloom	Bloom	
+	Scanlines	Linhas de matriz	
+	Multisampling	Amostragem múltipla	
+	Sound Enabled	Som ativado
+	Music Volume	Volume da música	
+	Text Size	Tamanho do texto	
+			
+			
+OS:			
+	Location   Local	
+	Seu IP	   Seu IP	
+	Loading...	Carregando…	
+	Program not Found	Programa nao encontrado
+	Proxy Active -- Cannot Execute	Proxy ativo -- nao pode ser executado
+	Insufficient Memory	Memoria insuficiente	
+	Location: Not Connected	local: sem conexao	
+	Target Machine Rejecting Syndicated UDP Traffic	A máquina de destino rejeita o tráfego UDP autorizado
+	Bypass Firewall to allow unrestricted traffic	Ignore o firewall para permitir tráfego irrestrito	
+	Too Few Open Ports to Run	Portas abertas ausentes para execucao	
+	Open Additional Ports on Target Machine	Abra portas adicionais na máquina de destino	
+	Requires Administrator Access to Run	Requer acesso de administrador para executar	
+	This computer is already running a shell.	Esta equipe já está executando um shell.	
+			
+			
+Programs:			
+	BOOT ERRORS DETECTED	ERROS INICIADOS DETECTADOS		
+	"For A Command List, type \""help\"""	"Para uma lista de comandos, escreva \""ayuda\"""	leave a backslash before any quote mark
+	Launching Tutorial...	Iniciando tutorial…	
+	Invalid PID	PID no válido	A PID is a type of identifier number
+	Error: Invalid PID or Input Format	Error: PID o formato de entrada no válido	
+			
+			
+			
+			
+Future:			
+	Extensions	Extensoes	
+	Mods	Mods	
+	Load {0} Session	Carregar sessao {0}	{0} being a mod name
+	Install Extensions via Steam Workshop	Instalar extensoes com o Steam Workshop	
+	No Extensions Found	Nenhuma extensao encontrada	
+	Workshop	Workshop	
+	Saved Sessions	Sessoes salvas	
+	Creator:	Criador:	
+			
+			
+			
+			
+Localization:			
+	Language	Idioma	
+	Select Language	Seleccionar idioma	
+	WARNING	ATENCAO	
+	"Once created, a session's language cannot be changed"	"Uma vez criado, voce nao poderá alterar o idioma de uma sessao"	
+	Active Language:	Idioma ativo:	
+	Activate	Ativar	
+	Back to Extension List	Voltar para a lista de extensoes	
+			
+			
+			
+Extra:			
+	Are you sure you wish to delete account {0}?	Tem certeza de que deseja excluir a conta? {0}?	
+	Delete Account	Eliminar conta	
+	Cancel	Cancelar	
+	Invalid Last Account : Login Manually	Última conta inválida: iniciar sessao manualmente	
+	Audio Visualiser	Visualizador de audio	
+			
+			
+			
+			
+Extra v1:			
+	Exit to Menu	Ir para o menu	
+	Sair da sessao atual de\nHackNetOS?	Sair da sessao atual de\nHackNetOS?	
+	Username cannot be blank. Try Again	Voce precisa digitar um usuário. Tente novamente	
+			
+Extra:			
+	Are you sure you wish to delete account {0}?	Tem certeza de que deseja excluir a conta? {0}?	
+	Delete Account	Excluir conta	
+	Cancel	Cancelar	
+	Invalid Last Account : Login Manually	Última conta inválida: faca o login manualmente	
+	Audio Visualiser	Visualizador de audio	
+			
+			
+			
+			
+Extra v1:			
+	Exit to Menu	IR para o menu	
+	Quit HackNetOS\nCurrent Session?	Saia da sessao atual de\nHackNetOS?	
+	Username cannot be blank. Try Again	O nome de usuário nao pode ficar em branco. Tente novamente.	
+	Continue	Continuar	
+	"For A Command List, type ""help"""	"Para obter uma lista de comandos, escreva ""help"""	
+	IP Search is limited to administrators	Pesquisa de IP é limitada a administradores	
+	of this machine only	somente desta máquina	
+	"If you require access, contact customer support"	"Se voce precisar de acesso, entre em contato com o atendimento ao cliente"	
+	"A secondary login is required to review and modify running firmware. Personal login details are provided for each chip. If you have lost your login details, connect your support program to our content server"	"Voce precisa de um acesso secundário para revisar e modificar o firmware em execucao, as credenciais de acesso pessoal sao fornecidas para cada chip, se voce perdeu suas credenciais de login, conecte-se ao seu programa de suporte em nosso servidor de conteúdo."	
+	Accept	Aceitar	
+	"eOS Device \{0}\"" opened for connection at {1}"""	"Dispositivo eOS ""\{0}\"" aberto para conexao em ""{1}"""	
+	SCANNING	ANALISANDO	
+	ERROR	ERROR	
+	SCAN COMPLETE	ANÁLISE COMPLETA	
+	DEVICES FOUND : {0}	DISPOSITIVOS ENCONTRADOS: {0}	
+	ADMIN ACCESS\nREQUIRED FOR SCAN	ACCESO DE ADMINISTRADOR\NECESSÁRIO PARA A ANÁLISE	
+	Mission Incomplete	Missao nao completada	
+	default	padrao	
+	medium	mediano	
+	large	grande	
+	Seu IP	Seu IP	
+			
+	Kills Process number [PID]	Cancelar número do processo [PID]	
+	Lists all files in current directory	Lista todos os arquivos no diretório atual	
